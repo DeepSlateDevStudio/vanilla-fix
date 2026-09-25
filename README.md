@@ -48,6 +48,8 @@ The swap happens when a chunk is read. Once that chunk is saved, the replacement
 
 ## Compatibility
 
+https://discord.gg/zH3ykunKd3
+
 PocketMine-MP API 5 and Altay.
 
 ## About
