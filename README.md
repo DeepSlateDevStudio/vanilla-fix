@@ -48,10 +48,9 @@ The swap happens when a chunk is read. Once that chunk is saved, the replacement
 
 ## Compatibility
 
-https://discord.gg/zH3ykunKd3
-
 PocketMine-MP API 5 and Altay.
 
 ## About
 
 Made by DeepSlate Dev. Released under the MIT license, free to use on any server.
+https://discord.gg/zH3ykunKd3
