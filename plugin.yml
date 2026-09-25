@@ -1,0 +1,15 @@
+name: VanillaFix
+version: 1.0.0
+main: deepslatedev\vanillafix\Main
+api: [5.0.0]
+load: STARTUP
+author: DeepSlate Dev
+description: Replaces vanilla blocks your server software does not support, so imported maps stop showing unknown blocks
+commands:
+  vanillafix:
+    description: Show which unsupported blocks were repaired
+    usage: /vanillafix [scan]
+    permission: vanillafix.command
+permissions:
+  vanillafix.command:
+    default: op
