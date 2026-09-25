@@ -52,4 +52,4 @@ PocketMine-MP API 5 and Altay.
 
 ## About
 
-Made by DeepSlate Dev. Free to use on any server.
+Made by DeepSlate Dev. Released under the MIT license, free to use on any server.
